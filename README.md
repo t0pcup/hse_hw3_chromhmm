@@ -6,18 +6,18 @@
 
 **Контроль:** wgEncodeBroadHistoneHuvecControlStdAlnRep1.bam (Control.bam)
 
-Гистоновая метка | Имя файла
-:---------------:|:-----------:
-H3k36me3         | H3k36me3.bam
-H3k4me2          | H3k4me2.bam
-H4k20me1         | H4k20me1.bam
-Ctc              | Ctc.bam
-H3k9me1          | H3k9me1.bam
-Pol2b            | Pol2b.bam
-H3k27ac          | H3k27ac.bam
-H3k4me3          | H3k4me3.bam
-H3k27me3         | H3k27me3.bam
-H3k9ac           | H3k9ac.bam
+Гистоновая метка | Имя файла    | Оригинальный файл                               | Правки
+:---------------:|:------------:|:-----------------------------------------------:|:----------------------------------------------:
+H3k36me3         | H3k36me3.bam | wgEncodeBroadHistoneHuvecH3k36me3StdAlnRep1.bam |
+H3k4me2          | H3k4me2.bam  | wgEncodeBroadHistoneHuvecH3k4me2StdAlnRep1.bam  |
+H4k20me1         | H4k20me1.bam | wgEncodeBroadHistoneHuvecH4k20me1StdAlnRep1.bam |
+Ctc              | Ctc.bam      | wgEncodeBroadHistoneHuvecCtcfStdAlnRep1.bam     | Тут вышла ошибочка, метку надо называть *Ctcf*
+H3k9me1          | H3k9me1.bam  | wgEncodeBroadHistoneHuvecH3k9me1StdAlnRep1.bam  |
+Pol2b            | Pol2b.bam    | wgEncodeBroadHistoneHuvecPol2bStdAlnRep1.bam    |
+H3k27ac          | H3k27ac.bam  | wgEncodeBroadHistoneHuvecH3k27acStdAlnRep1.bam  |
+H3k4me3          | H3k4me3.bam  | wgEncodeBroadHistoneHuvecH3k4me3StdAlnRep1.bam  |
+H3k27me3         | H3k27me3.bam | wgEncodeBroadHistoneHuvecH3k27me3StdAlnRep1.bam |
+H3k9ac           | H3k9ac.bam   | wgEncodeBroadHistoneHuvecH3k9acStdAlnRep1.bam   |
 
 **cellmarkfiletable.txt:**
 
