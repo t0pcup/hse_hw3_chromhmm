@@ -60,7 +60,7 @@ RefSeqTSS_neighborhood                              | RefSeqTES_neighborhood    
 
 ## Бонус
 
-Полученный *HUVEC_15_dense.bed* был модифицирован в *HUVEC_15_dense_upd.bed* с помощью добавления 15-ти состояний (соответствие номер-название установлено в табличке выше, при работе с *UCSC GenomeBrowser*):
+Полученный *HUVEC_15_dense.bed* был модифицирован вручную и записан в *HUVEC_15_dense_upd.bed* с помощью добавления 15-ти состояний (соответствие номер-название установлено в табличке выше, при работе с *UCSC GenomeBrowser*):
 
 ![key](pictures/key.png)
 
@@ -69,3 +69,5 @@ RefSeqTSS_neighborhood                              | RefSeqTES_neighborhood    
 ![HUVEC_15_dense_upd_part](pictures/HUVEC_15_dense_upd_part.png)
 
 Просмотр с выполненной разметкой:
+
+![upd_view](pictures/UCSC_GenomeBrowser/upd_view.png)
