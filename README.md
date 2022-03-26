@@ -25,6 +25,8 @@ H3k79me2         | H3k79me2.bam | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.
 
 ## Работа с ChromHMM
 
+*Надо было поставить параметр 10, а не 15. Поздно заметила.*
+
 [Ссылка на Colab](https://colab.research.google.com/drive/1llVs1T7x1bb0oZD-fxRHMYG6F-CQfdNV?usp=sharing)
 
 ## Отчет ChromHMM
