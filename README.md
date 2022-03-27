@@ -19,11 +19,15 @@ H3k09ac          | H3k09ac.bam  | wgEncodeBroadHistoneA549H3k79me2Dex100nmAlnRep
 H3k27me3         | H3k27me3.bam | wgEncodeBroadHistoneA549H3k09acEtoh02AlnRep1.bam
 H3k79me2         | H3k79me2.bam | wgEncodeBroadHistoneA549H3k09me3Etoh02AlnRep1.bam
 
-**cellmarkfiletable.txt:**
+**[cellmarkfiletable.txt:](src/cellmarkfiletable.txt)**
 
 ![cellmarkfiletable](pictures/cellmarkfiletable.png)
 
 ## Работа с ChromHMM
+
+Список всех запущенных команд содержится в Google Colaboratory Notebook.
+
+[Код](src/hw3_hmm.ipynb)
 
 [Ссылка на Colab](https://colab.research.google.com/drive/1llVs1T7x1bb0oZD-fxRHMYG6F-CQfdNV?usp=sharing)
 
