@@ -53,43 +53,29 @@ RefSeqTSS_neighborhood            | RefSeqTES_neighborhood            | transiti
 9 - ![желтый](https://clck.ru/eVfzy) https://via.placeholder.com/15/ffff00/000000?text=+
 10 -![сиреневый](https://clck.ru/eVg7U) https://via.placeholder.com/15/cb9aff/000000?text=+ -->
 
-Категория    | Состояние   | Название             | Описание                      | Отображение
-:-----------:|:-----------:|:---------------------|:-----------------------------:|------------------------------------------:
-CpGIsland    | 8, 9        | Промотор             | [CpGIsland](#CpGIsland)       | ![п](https://clck.ru/eVftW) ![ж](https://clck.ru/eVfzy)
-RefSeqExon   | 4, 9        | Промотор             | [RefSeqExon](#RefSeqExon)     | ![ф](https://clck.ru/eVfMX) ![ж](https://clck.ru/eVfzy)
-RefSeqGene   | 4, 5, 6, 10 | Транскрипц. участок  | [RefSeqGene](#RefSeqGene)     | ![ф](https://clck.ru/eVfMX) ![с](https://clck.ru/eVfVZ) ![з](https://clck.ru/eVfco) ![с](https://clck.ru/eVg7U)
-RefSeqTES    | 4, 7, 8, 10 | Терминатор, Энхансер | [RefSeqTES](#RefSeqTES)       | ![ф](https://clck.ru/eVfMX) ![п](https://clck.ru/eVftW) ![к](https://clck.ru/eVfkG) ![с](https://clck.ru/eVg7U)
-RefSeqTSS    | 9           | Промотор, Энхансер   | [RefSeqTSS](#RefSeqTSS)       | ![ж](https://clck.ru/eVfzy)
-RefSeqTSS2kb | 9, 8, 10    | Промотор, Энхансер   | [RefSeqTSS2kb](#RefSeqTSS2kb) | ![ж](https://clck.ru/eVfzy) ![п](https://clck.ru/eVftW) ![с](https://clck.ru/eVg7U)
-laminB1lands | 1, 2, 3     | Гетерохроматин       | [laminB1lands](#laminB1lands) | ![с](https://clck.ru/eVe74) ![г](https://clck.ru/eVeak) ![л](https://clck.ru/eVfD2)
+Категория                     | Состояние   | Название             | Отображение
+:----------------------------:|:-----------:|:---------------------|------------------------------------------:
+[CpGIsland](#CpGIsland)       | 8, 9        | Промотор             | ![п](https://clck.ru/eVftW) ![ж](https://clck.ru/eVfzy)
+[RefSeqExon](#RefSeqExon)     | 4, 9        | Промотор             | ![ф](https://clck.ru/eVfMX) ![ж](https://clck.ru/eVfzy)
+[RefSeqGene](#RefSeqGene)     | 4, 5, 6, 10 | Транскрипц. участок  | ![ф](https://clck.ru/eVfMX) ![с](https://clck.ru/eVfVZ) ![з](https://clck.ru/eVfco) ![с](https://clck.ru/eVg7U)
+[RefSeqTES](#RefSeqTES)       | 4, 7, 8, 10 | Терминатор, Энхансер | ![ф](https://clck.ru/eVfMX) ![п](https://clck.ru/eVftW) ![к](https://clck.ru/eVfkG) ![с](https://clck.ru/eVg7U)
+[RefSeqTSS](#RefSeqTSS)       | 9           | Промотор, Энхансер   | ![ж](https://clck.ru/eVfzy)
+[RefSeqTSS2kb](#RefSeqTSS2kb) | 9, 8, 10    | Промотор, Энхансер   | ![ж](https://clck.ru/eVfzy) ![п](https://clck.ru/eVftW) ![с](https://clck.ru/eVg7U)
+[laminB1lands](#laminB1lands) | 1, 2, 3     | Гетерохроматин       | ![с](https://clck.ru/eVe74) ![г](https://clck.ru/eVeak) ![л](https://clck.ru/eVfD2)
 
-#### CpGIsland
+#### CpGIsland: Обычно располагаются в начале транскрибируемых генов, то есть возле промотора
 
-Обычно располагаются в начале транскрибируемых генов, то есть возле промотора.
+#### RefSeqExon: Экзон, обычно возле промотора
 
-#### RefSeqExon
+#### RefSeqGene: Транскрипционный участок
 
-Экзон, обычно возле промотора.
+#### RefSeqTES: Терминатор. Но может быть и энхансером в силу соседства с сайтом транскрипции
 
-#### RefSeqGene
+#### RefSeqTSS: Промотор. Но может быть и энхансером в силу соседства с сайтом транскрипции
 
-Транскрипционный участок.
+#### RefSeqTSS2kb: Промотор. Но может быть и энхансером в силу соседства с сайтом транскрипции
 
-#### RefSeqTES
-
-Терминатор. Но может быть и энхансером в силу соседства с сайтом транскрипции.
-
-#### RefSeqTSS
-
-Промотор. Но может быть и энхансером в силу соседства с сайтом транскрипции.
-
-#### RefSeqTSS2kb
-
-Промотор. Но может быть и энхансером в силу соседства с сайтом транскрипции.
-
-#### laminB1lands
-
-Неактивный участок (repressed). Гетерохроматин.
+#### laminB1lands: Неактивный участок (repressed). Гетерохроматин
 
 ### Возможные названия
 
